@@ -1,8 +1,12 @@
-hey 👋 i'm @jbgski
+hey there 👋
+---
+i'm ***@jbgski***
 
-crafting some interesting & groundbreaking things @TheRefractCo
+— web, .net, swift, design, art, and *almost* everything else
 
-<!---
-jbgski/jbgski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+crafting some interesting things [@ The Refract Co.](https://refract.fyi)
+
+reach out
+---
+want to collaborate? try a new app idea? just talk? you will find me here too:<br>
+`💬 - discord` || `twitter @jbgski` || `📧 email - hey@jbg.ski`
