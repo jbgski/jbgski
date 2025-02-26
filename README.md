@@ -1,10 +1,10 @@
 hey there 👋
 ---
-i'm ***@jbgski***
+i'm ***Jakub***
 
 — web, .net, swift, design, art, and *almost* everything else
 
-crafting some interesting things [@ The Refract Co.](https://refract.fyi)
+crafting some interesting things [@ The Refract Co.](https://refract.fyi) 
 
 reach out
 ---
